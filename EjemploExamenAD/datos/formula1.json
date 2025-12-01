@@ -1,0 +1,105 @@
+[
+    {
+        "nombre": "Mercedes",
+        "pais": "Alemania",
+        "fundacion": 2010,
+        "pilotos": [
+            {
+                "nombre": "Lewis Hamilton",
+                "nacionalidad": "Británico",
+                "edad": 38
+            },
+            {
+                "nombre": "George Russell",
+                "nacionalidad": "Británico",
+                "edad": 26
+            }
+        ]
+    },
+    {
+        "nombre": "Red Bull Racing",
+        "pais": "Austria",
+        "fundacion": 2005,
+        "pilotos": [
+            {
+                "nombre": "Max Verstappen",
+                "nacionalidad": "Neerlandés",
+                "edad": 26
+            },
+            {
+                "nombre": "Sergio Pérez",
+                "nacionalidad": "Mexicano",
+                "edad": 34
+            }
+        ]
+    },
+    {
+        "nombre": "Ferrari",
+        "pais": "Italia",
+        "fundacion": 1929,
+        "pilotos": [
+            {
+                "nombre": "Charles Leclerc",
+                "nacionalidad": "Monagesco",
+                "edad": 26
+            },
+            {
+                "nombre": "Carlos Sainz",
+                "nacionalidad": "Español",
+                "edad": 29
+            }
+        ]
+    },
+    {
+        "nombre": "McLaren",
+        "pais": "Reino Unido",
+        "fundacion": 1963,
+        "pilotos": [
+            {
+                "nombre": "Lando Norris",
+                "nacionalidad": "Británico",
+                "edad": 24
+            },
+            {
+                "nombre": "Oscar Piastri",
+                "nacionalidad": "Australiano",
+                "edad": 23
+            }
+        ]
+    },
+    {
+        "nombre": "Alpine",
+        "pais": "Francia",
+        "fundacion": 2021,
+        "pilotos": [
+            {
+                "nombre": "Esteban Ocon",
+                "nacionalidad": "Francés",
+                "edad": 27
+            },
+            {
+                "nombre": "Pierre Gasly",
+                "nacionalidad": "Francés",
+                "edad": 28
+            }
+        ]
+    },
+    {
+        "nombre": "Aston Martin",
+        "pais": "Reino Unido",
+        "fundacion": 2021,
+        "pilotos": [
+            {
+                "nombre": "Fernando Alonso",
+                "nacionalidad": "Español",
+                "edad": 43
+            },
+            {
+                "nombre": "Lance Stroll",
+                "nacionalidad": "Canadiense",
+                "edad": 25
+            }
+        ]
+    }
+]
+

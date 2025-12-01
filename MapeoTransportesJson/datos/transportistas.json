@@ -1,0 +1,62 @@
+[
+    {
+        "transportista": "Miguel Ángel Torres",
+        "tipoLicencia": "C+E",
+        "experiencia": 15,
+        "vehiculo": {
+            "tipo": "Tráiler",
+            "capacidadCarga": 24000,
+            "matricula": "8765XYZ"
+        }
+    },
+    {
+        "transportista": "Sarah Chen",
+        "tipoLicencia": "C",
+        "experiencia": 8,
+        "vehiculo": {
+            "tipo": "Camión rígido",
+            "capacidadCarga": 12000,
+            "matricula": "5432ABC"
+        }
+    },
+    {
+        "transportista": "Antonio Rossi",
+        "tipoLicencia": "C+E",
+        "experiencia": 22,
+        "vehiculo": {
+            "tipo": "Camión cisterna",
+            "capacidadCarga": 18000,
+            "matricula": "1234DEF"
+        }
+    },
+    {
+        "transportista": "Elena Petrov",
+        "tipoLicencia": "C",
+        "experiencia": 6,
+        "vehiculo": {
+            "tipo": "Furgoneta grande",
+            "capacidadCarga": 3500,
+            "matricula": "7890GHI"
+        }
+    },
+    {
+        "transportista": "Carlos Mendoza",
+        "tipoLicencia": "C+E",
+        "experiencia": 18,
+        "vehiculo": {
+            "tipo": "Tráiler refrigerado",
+            "capacidadCarga": 22000,
+            "matricula": "2468JKL"
+        }
+    },
+    {
+        "transportista": "Olga Nowak",
+        "tipoLicencia": "C",
+        "experiencia": 11,
+        "vehiculo": {
+            "tipo": "Camión volquete",
+            "capacidadCarga": 15000,
+            "matricula": "1357MNO"
+        }
+    }
+]

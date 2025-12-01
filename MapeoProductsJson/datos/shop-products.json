@@ -1,0 +1,52 @@
+[
+	{
+		"art": "A01",
+		"descrip": "Tarjeta felicitación",
+		"categoria": "C1",
+		"colores": ["blanco", "negro", "gris"],
+		"dimensiones": {
+			"largo": 4, 
+			"ancho": 4, 
+			"espesor": 3
+		},
+		"precio": 15.05
+	},
+	{
+		"art": "A02",
+		"descrip": "Tarjeta cumpleaños",
+		"categoria": "C1",
+		"colores": ["blanco", "gris", "rojo"],
+		"dimensiones": {
+			"largo": 4,
+			"ancho": 10,
+			"espesor": 2
+		},
+		"precio": 25.95
+	},
+	{
+		"art": "A03",
+		"descrip": "Tarjeta jubilación",
+		"categoria": "C1",
+		"colores": ["rojo", "gris", "verde"],
+		"dimensiones": {
+			"largo": 5,
+			"ancho": 5,
+			"espesor": 3
+		},
+		"precio": 30.25
+	},
+	{
+		"art": "A04",
+		"descrip": "Tarjeta bautizo",
+		"categoria": "C2",
+		"colores": ["verde","rojo"],
+		"dimensiones": {
+			"largo": 6,
+			"ancho": 8,
+			"espesor": 4
+		},
+		"precio": 18.45
+	}
+]
+ 
+ 

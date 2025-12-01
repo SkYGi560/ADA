@@ -1,0 +1,12 @@
+{
+  "idTransportista": 2,
+  "transportista": "Sarah Chen",
+  "tipoLicencia": "C",
+  "experiencia": 8,
+  "vehiculo": {
+    "id": 2,
+    "tipo": "Camión rígido",
+    "capacidadCarga": 12000.0,
+    "matricula": "5432ABC"
+  }
+}

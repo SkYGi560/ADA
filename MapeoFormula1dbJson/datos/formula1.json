@@ -1,0 +1,541 @@
+[
+  {
+    "nombre": "Mercedes",
+    "pais": "Alemania",
+    "fundacion": 2010,
+    "pilotos": [
+      {
+        "nombre": "George Russell",
+        "nacionalidad": "Británico",
+        "edad": 26
+      },
+      {
+        "nombre": "George Russell",
+        "nacionalidad": "Británico",
+        "edad": 26
+      },
+      {
+        "nombre": "Sergio Pérez",
+        "nacionalidad": "Mexicano",
+        "edad": 34
+      },
+      {
+        "nombre": "Sergio Pérez",
+        "nacionalidad": "Mexicano",
+        "edad": 34
+      },
+      {
+        "nombre": "Carlos Sainz",
+        "nacionalidad": "Español",
+        "edad": 29
+      },
+      {
+        "nombre": "Carlos Sainz",
+        "nacionalidad": "Español",
+        "edad": 29
+      },
+      {
+        "nombre": "Oscar Piastri",
+        "nacionalidad": "Australiano",
+        "edad": 23
+      },
+      {
+        "nombre": "Oscar Piastri",
+        "nacionalidad": "Australiano",
+        "edad": 23
+      },
+      {
+        "nombre": "Pierre Gasly",
+        "nacionalidad": "Francés",
+        "edad": 28
+      },
+      {
+        "nombre": "Pierre Gasly",
+        "nacionalidad": "Francés",
+        "edad": 28
+      },
+      {
+        "nombre": "Lance Stroll",
+        "nacionalidad": "Canadiense",
+        "edad": 25
+      },
+      {
+        "nombre": "Lance Stroll",
+        "nacionalidad": "Canadiense",
+        "edad": 25
+      },
+      {
+        "nombre": "Nicholas Latifi",
+        "nacionalidad": "Canadiense",
+        "edad": 28
+      },
+      {
+        "nombre": "Nicholas Latifi",
+        "nacionalidad": "Canadiense",
+        "edad": 28
+      }
+    ]
+  },
+  {
+    "nombre": "Red Bull Racing",
+    "pais": "Austria",
+    "fundacion": 2005,
+    "pilotos": [
+      {
+        "nombre": "George Russell",
+        "nacionalidad": "Británico",
+        "edad": 26
+      },
+      {
+        "nombre": "George Russell",
+        "nacionalidad": "Británico",
+        "edad": 26
+      },
+      {
+        "nombre": "Sergio Pérez",
+        "nacionalidad": "Mexicano",
+        "edad": 34
+      },
+      {
+        "nombre": "Sergio Pérez",
+        "nacionalidad": "Mexicano",
+        "edad": 34
+      },
+      {
+        "nombre": "Carlos Sainz",
+        "nacionalidad": "Español",
+        "edad": 29
+      },
+      {
+        "nombre": "Carlos Sainz",
+        "nacionalidad": "Español",
+        "edad": 29
+      },
+      {
+        "nombre": "Oscar Piastri",
+        "nacionalidad": "Australiano",
+        "edad": 23
+      },
+      {
+        "nombre": "Oscar Piastri",
+        "nacionalidad": "Australiano",
+        "edad": 23
+      },
+      {
+        "nombre": "Pierre Gasly",
+        "nacionalidad": "Francés",
+        "edad": 28
+      },
+      {
+        "nombre": "Pierre Gasly",
+        "nacionalidad": "Francés",
+        "edad": 28
+      },
+      {
+        "nombre": "Lance Stroll",
+        "nacionalidad": "Canadiense",
+        "edad": 25
+      },
+      {
+        "nombre": "Lance Stroll",
+        "nacionalidad": "Canadiense",
+        "edad": 25
+      },
+      {
+        "nombre": "Nicholas Latifi",
+        "nacionalidad": "Canadiense",
+        "edad": 28
+      },
+      {
+        "nombre": "Nicholas Latifi",
+        "nacionalidad": "Canadiense",
+        "edad": 28
+      }
+    ]
+  },
+  {
+    "nombre": "Ferrari",
+    "pais": "Italia",
+    "fundacion": 1929,
+    "pilotos": [
+      {
+        "nombre": "George Russell",
+        "nacionalidad": "Británico",
+        "edad": 26
+      },
+      {
+        "nombre": "George Russell",
+        "nacionalidad": "Británico",
+        "edad": 26
+      },
+      {
+        "nombre": "Sergio Pérez",
+        "nacionalidad": "Mexicano",
+        "edad": 34
+      },
+      {
+        "nombre": "Sergio Pérez",
+        "nacionalidad": "Mexicano",
+        "edad": 34
+      },
+      {
+        "nombre": "Carlos Sainz",
+        "nacionalidad": "Español",
+        "edad": 29
+      },
+      {
+        "nombre": "Carlos Sainz",
+        "nacionalidad": "Español",
+        "edad": 29
+      },
+      {
+        "nombre": "Oscar Piastri",
+        "nacionalidad": "Australiano",
+        "edad": 23
+      },
+      {
+        "nombre": "Oscar Piastri",
+        "nacionalidad": "Australiano",
+        "edad": 23
+      },
+      {
+        "nombre": "Pierre Gasly",
+        "nacionalidad": "Francés",
+        "edad": 28
+      },
+      {
+        "nombre": "Pierre Gasly",
+        "nacionalidad": "Francés",
+        "edad": 28
+      },
+      {
+        "nombre": "Lance Stroll",
+        "nacionalidad": "Canadiense",
+        "edad": 25
+      },
+      {
+        "nombre": "Lance Stroll",
+        "nacionalidad": "Canadiense",
+        "edad": 25
+      },
+      {
+        "nombre": "Nicholas Latifi",
+        "nacionalidad": "Canadiense",
+        "edad": 28
+      },
+      {
+        "nombre": "Nicholas Latifi",
+        "nacionalidad": "Canadiense",
+        "edad": 28
+      }
+    ]
+  },
+  {
+    "nombre": "McLaren",
+    "pais": "Reino Unido",
+    "fundacion": 1963,
+    "pilotos": [
+      {
+        "nombre": "George Russell",
+        "nacionalidad": "Británico",
+        "edad": 26
+      },
+      {
+        "nombre": "George Russell",
+        "nacionalidad": "Británico",
+        "edad": 26
+      },
+      {
+        "nombre": "Sergio Pérez",
+        "nacionalidad": "Mexicano",
+        "edad": 34
+      },
+      {
+        "nombre": "Sergio Pérez",
+        "nacionalidad": "Mexicano",
+        "edad": 34
+      },
+      {
+        "nombre": "Carlos Sainz",
+        "nacionalidad": "Español",
+        "edad": 29
+      },
+      {
+        "nombre": "Carlos Sainz",
+        "nacionalidad": "Español",
+        "edad": 29
+      },
+      {
+        "nombre": "Oscar Piastri",
+        "nacionalidad": "Australiano",
+        "edad": 23
+      },
+      {
+        "nombre": "Oscar Piastri",
+        "nacionalidad": "Australiano",
+        "edad": 23
+      },
+      {
+        "nombre": "Pierre Gasly",
+        "nacionalidad": "Francés",
+        "edad": 28
+      },
+      {
+        "nombre": "Pierre Gasly",
+        "nacionalidad": "Francés",
+        "edad": 28
+      },
+      {
+        "nombre": "Lance Stroll",
+        "nacionalidad": "Canadiense",
+        "edad": 25
+      },
+      {
+        "nombre": "Lance Stroll",
+        "nacionalidad": "Canadiense",
+        "edad": 25
+      },
+      {
+        "nombre": "Nicholas Latifi",
+        "nacionalidad": "Canadiense",
+        "edad": 28
+      },
+      {
+        "nombre": "Nicholas Latifi",
+        "nacionalidad": "Canadiense",
+        "edad": 28
+      }
+    ]
+  },
+  {
+    "nombre": "Alpine",
+    "pais": "Francia",
+    "fundacion": 2021,
+    "pilotos": [
+      {
+        "nombre": "George Russell",
+        "nacionalidad": "Británico",
+        "edad": 26
+      },
+      {
+        "nombre": "George Russell",
+        "nacionalidad": "Británico",
+        "edad": 26
+      },
+      {
+        "nombre": "Sergio Pérez",
+        "nacionalidad": "Mexicano",
+        "edad": 34
+      },
+      {
+        "nombre": "Sergio Pérez",
+        "nacionalidad": "Mexicano",
+        "edad": 34
+      },
+      {
+        "nombre": "Carlos Sainz",
+        "nacionalidad": "Español",
+        "edad": 29
+      },
+      {
+        "nombre": "Carlos Sainz",
+        "nacionalidad": "Español",
+        "edad": 29
+      },
+      {
+        "nombre": "Oscar Piastri",
+        "nacionalidad": "Australiano",
+        "edad": 23
+      },
+      {
+        "nombre": "Oscar Piastri",
+        "nacionalidad": "Australiano",
+        "edad": 23
+      },
+      {
+        "nombre": "Pierre Gasly",
+        "nacionalidad": "Francés",
+        "edad": 28
+      },
+      {
+        "nombre": "Pierre Gasly",
+        "nacionalidad": "Francés",
+        "edad": 28
+      },
+      {
+        "nombre": "Lance Stroll",
+        "nacionalidad": "Canadiense",
+        "edad": 25
+      },
+      {
+        "nombre": "Lance Stroll",
+        "nacionalidad": "Canadiense",
+        "edad": 25
+      },
+      {
+        "nombre": "Nicholas Latifi",
+        "nacionalidad": "Canadiense",
+        "edad": 28
+      },
+      {
+        "nombre": "Nicholas Latifi",
+        "nacionalidad": "Canadiense",
+        "edad": 28
+      }
+    ]
+  },
+  {
+    "nombre": "Aston Martin",
+    "pais": "Reino Unido",
+    "fundacion": 2021,
+    "pilotos": [
+      {
+        "nombre": "George Russell",
+        "nacionalidad": "Británico",
+        "edad": 26
+      },
+      {
+        "nombre": "George Russell",
+        "nacionalidad": "Británico",
+        "edad": 26
+      },
+      {
+        "nombre": "Sergio Pérez",
+        "nacionalidad": "Mexicano",
+        "edad": 34
+      },
+      {
+        "nombre": "Sergio Pérez",
+        "nacionalidad": "Mexicano",
+        "edad": 34
+      },
+      {
+        "nombre": "Carlos Sainz",
+        "nacionalidad": "Español",
+        "edad": 29
+      },
+      {
+        "nombre": "Carlos Sainz",
+        "nacionalidad": "Español",
+        "edad": 29
+      },
+      {
+        "nombre": "Oscar Piastri",
+        "nacionalidad": "Australiano",
+        "edad": 23
+      },
+      {
+        "nombre": "Oscar Piastri",
+        "nacionalidad": "Australiano",
+        "edad": 23
+      },
+      {
+        "nombre": "Pierre Gasly",
+        "nacionalidad": "Francés",
+        "edad": 28
+      },
+      {
+        "nombre": "Pierre Gasly",
+        "nacionalidad": "Francés",
+        "edad": 28
+      },
+      {
+        "nombre": "Lance Stroll",
+        "nacionalidad": "Canadiense",
+        "edad": 25
+      },
+      {
+        "nombre": "Lance Stroll",
+        "nacionalidad": "Canadiense",
+        "edad": 25
+      },
+      {
+        "nombre": "Nicholas Latifi",
+        "nacionalidad": "Canadiense",
+        "edad": 28
+      },
+      {
+        "nombre": "Nicholas Latifi",
+        "nacionalidad": "Canadiense",
+        "edad": 28
+      }
+    ]
+  },
+  {
+    "nombre": "Williams",
+    "pais": "Reino Unido",
+    "fundacion": 1977,
+    "pilotos": [
+      {
+        "nombre": "George Russell",
+        "nacionalidad": "Británico",
+        "edad": 26
+      },
+      {
+        "nombre": "George Russell",
+        "nacionalidad": "Británico",
+        "edad": 26
+      },
+      {
+        "nombre": "Sergio Pérez",
+        "nacionalidad": "Mexicano",
+        "edad": 34
+      },
+      {
+        "nombre": "Sergio Pérez",
+        "nacionalidad": "Mexicano",
+        "edad": 34
+      },
+      {
+        "nombre": "Carlos Sainz",
+        "nacionalidad": "Español",
+        "edad": 29
+      },
+      {
+        "nombre": "Carlos Sainz",
+        "nacionalidad": "Español",
+        "edad": 29
+      },
+      {
+        "nombre": "Oscar Piastri",
+        "nacionalidad": "Australiano",
+        "edad": 23
+      },
+      {
+        "nombre": "Oscar Piastri",
+        "nacionalidad": "Australiano",
+        "edad": 23
+      },
+      {
+        "nombre": "Pierre Gasly",
+        "nacionalidad": "Francés",
+        "edad": 28
+      },
+      {
+        "nombre": "Pierre Gasly",
+        "nacionalidad": "Francés",
+        "edad": 28
+      },
+      {
+        "nombre": "Lance Stroll",
+        "nacionalidad": "Canadiense",
+        "edad": 25
+      },
+      {
+        "nombre": "Lance Stroll",
+        "nacionalidad": "Canadiense",
+        "edad": 25
+      },
+      {
+        "nombre": "Nicholas Latifi",
+        "nacionalidad": "Canadiense",
+        "edad": 28
+      },
+      {
+        "nombre": "Nicholas Latifi",
+        "nacionalidad": "Canadiense",
+        "edad": 28
+      }
+    ]
+  }
+]
