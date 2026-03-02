@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>API Rest CINE - MySQL Server</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+            table {
+                border:1px solid black;
+                border-collapse:collapse;                
+            }
+            table td,
+            table th {
+                border:1px solid black;
+                padding:5px 10px;
+            }
+            table th {
+                background-color:orange;
+            }
+            .cabecera {
+                font-weight: bold;
+                background-color:#dddddd;
+            }
+            .rotulo {
+                font-weight: bold;
+                background-color:#f2deac;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>API Rest CINE - MySQL Server</h1>       
+        <table>
+            <tr>
+                <td class="rotulo">Database</td>
+                <td>bdcine</td>
+            </tr>                
+            <tr>
+                <td class="rotulo">Table</td>
+                <td>tematicas, peliculas</td>
+            </tr>  
+            <tr>
+                <td class="rotulo">Content-Type</td>
+                <td>application/json</td>
+            </tr>  
+            <tr>
+                <td class="rotulo">Accept</td>
+                <td>application/json</td>
+            </tr>  
+        </table>
+
+        <br><br> 
+
+        <table>
+            <tr>
+                <th colspan="2">TEMÁTICAS</th>
+            </tr>            
+            <tr>
+                <th>MÉTODO</th>
+                <th>PATH</th>
+            </tr>
+            <tr>
+                <td class="cabecera">GET</td>
+                <td><a href="/bdcine/apirest/tematicas">/bdcine/apirest/tematicas</a></td>
+            </tr>
+            <tr>
+                <td class="cabecera">GET</td>
+                <td>/bdcine/apirest/tematicas/{id}<br>
+                <a href="/bdcine/apirest/tematicas/3">/bdcine/apirest/tematicas/3</a>
+                </td>
+            </tr>
+            <tr>
+                <td class="cabecera">POST</td>
+                <td>/bdcine/apirest/tematicas</td>
+            </tr>      
+            <tr>
+                <td class="cabecera">GET</td>
+                <td>/bdcine/apirest/tematicas/count/{id}<br>
+                <a href="/bdcine/apirest/tematicas/count/3">/bdcine/apirest/tematicas/count/3</a>
+                </td>
+            </tr>            
+        </table>
+         
+        <br><br> 
+
+        <table>
+            <tr>
+                <th colspan="2">PELÍCULAS</th>
+            </tr>            
+            <tr>
+                <th>MÉTODO</th>
+                <th>PATH</th>
+            </tr>
+            <tr>
+                <td class="cabecera">GET</td>
+                <td><a href="/bdcine/apirest/peliculas">/bdcine/apirest/peliculas</a></td>
+            </tr>
+            <tr>
+                <td class="cabecera">GET</td>
+                <td>/bdcine/apirest/peliculas/{cod}<br>
+                <a href="/bdcine/apirest/peliculas/2">/bdcine/apirest/peliculas/2</a>
+                </td>
+            </tr>
+        </table>
+                  
+    </body>
+</html>

@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>API Rest Math</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+            table {
+                border:1px solid black;
+                border-collapse:collapse;
+            }
+            table td, table th {
+                border:1px solid black;
+                padding:5px 10px;
+            }
+            table th {
+                background-color:orange;
+            }
+            .cabecera {
+                font-weight: bold;
+                background-color:#dddddd;
+            }
+            .rotulo {
+                font-weight: bold;
+                background-color:#f2deac;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>API Rest Math</h1>
+        <table>
+            <tr>
+                <td class="rotulo">Content-Type</td>
+                <td>text/plain</td>
+            </tr>
+            <tr>
+                <td class="rotulo">Accept</td>
+                <td>
+                    text/plain
+                </td>
+            </tr>
+        </table><br><br>
+        <table>
+            <tr><th>MÉTODO</th><th>PATH</th></tr>
+            <tr>
+                <td class="cabecera">GET</td>
+                <td>/xmath/apirest/aritmetica/sumar/{operando1}/{operando2}<br>
+                    <a href="/xmath/apirest/aritmetica/sumar/3/5">
+                        /xmath/apirest/aritmetica/sumar/3/5
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td class="cabecera">GET</td>
+                <td>/xmath/apirest/aritmetica/dividir/{operando1}/{operando2}?
+                    decimales={operando3}
+                    <br>
+                    <a href="/xmath/apirest/aritmetica/dividir/8/3?decimales=2">
+                        /xmath/apirest/aritmetica/dividir/8/3?decimales=2
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td class="cabecera">GET</td>
+                <td>/xmath/apirest/aritmetica/restar/{operando1}/{operando2}
+                    <br>
+                    <a href="/xmath/apirest/aritmetica/restar/20/11">
+                        /xmath/apirest/aritmetica/restar/20/11
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td class="cabecera">GET</td>
+                <td>/xmath/apirest/aritmetica/multiplicar/{operando1}/{operando2}
+                    <br>
+                    <a href="/xmath/apirest/aritmetica/multiplicar/5/7">
+                        /xmath/apirest/aritmetica/multiplicar/5/7
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td class="cabecera">GET</td>
+                <td>/xmath/apirest/aritmetica/porcentaje/{operando1}/{operando2}?
+                    decimales={operando3}
+                    <br>
+                    <a href="/xmath/apirest/aritmetica/porcentaje/55/9?decimales=3">
+                        /xmath/apirest/aritmetica/porcentaje/55/9?decimales=3
+                    </a>
+                    <br>
+                    <a href="/xmath/apirest/aritmetica/porcentaje/55/9">
+                        /xmath/apirest/aritmetica/porcentaje/55/9
+                    </a>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

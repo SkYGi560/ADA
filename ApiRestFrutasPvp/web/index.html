@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>API Rest Frutas</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+            table {
+                border:1px solid black;
+                border-collapse:collapse;                
+            }
+            table td,
+            table th {
+                border:1px solid black;
+                padding:5px 10px;
+            }
+            table th {
+                background-color:orange;
+            }
+            .cabecera {
+                font-weight: bold;
+                background-color:#dddddd;
+            }
+            .rotulo {
+                font-weight: bold;
+                background-color:#f2deac;
+            }
+        </style>
+    </head>
+    <body>
+         <h1>API Rest - RAM</h1>       
+        <table>
+            <tr>
+                <td class="rotulo">Database</td>
+                <td>en RAM</td>
+            </tr>                
+            <tr>
+                <td class="rotulo">ArrayList</td>
+                <td>Frutas</td>
+            </tr>  
+            <tr>
+                <td class="rotulo">Content-Type</td>
+                <td>application/json</td>
+            </tr>  
+            <tr>
+                <td class="rotulo">Accept</td>
+                <td>application/json</td>
+            </tr>  
+        </table>
+
+         <br><br> 
+
+        <table>
+            <tr>
+                <th>MÉTODO</th>
+                <th>PATH</th>
+            </tr>
+            <tr>
+                <td class="cabecera">GET</td>
+                <td><a href="/tienda/fruteria/producto">/tienda/fruteria/producto</a></td>
+            </tr>
+            <tr>
+                <td class="cabecera">GET</td>
+                <td>
+                    /tienda/fruteria/producto{NOMBRE}
+                    <br>
+                    <a href="/tienda/fruteria/producto/platano">/tienda/fruteria/producto/platano</a>
+                </td>
+            </tr>
+            <tr>
+                <td class="cabecera">POST</td>
+                <td>/tienda/fruteria/producto</td>
+            </tr>
+            <tr>
+                <td class="cabecera">PUT</td>
+                <td>/tienda/fruteria/producto</td>
+            </tr>
+            <tr>
+                <td class="cabecera">DELETE</td>
+                <td>/tienda/fruteria/producto/{NOMBRE}</td>
+            </tr>
+
+        </table>
+    </body>
+</html>

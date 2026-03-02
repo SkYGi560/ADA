@@ -1,0 +1,1 @@
+mongoexport -h localhost:27017 -d libreria -c libros -o comunidades.json

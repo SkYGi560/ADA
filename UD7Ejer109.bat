@@ -1,0 +1,1 @@
+mongoexport -h localhost:27017 -d empresa -c empleados -o comunidades.json

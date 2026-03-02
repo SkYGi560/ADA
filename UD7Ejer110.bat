@@ -1,0 +1,1 @@
+mongoimport -h localhost:27017 -d shopping -c books --file libros.json

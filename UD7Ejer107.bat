@@ -1,0 +1,1 @@
+mongoexport -h localhost:27017 -d demografia -c comunidades -o comunidades.json
